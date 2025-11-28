@@ -68,9 +68,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ivishal-g/github-stats/master/generated/overview.svg" width="500"/>
-</p>
 
 ---
 
