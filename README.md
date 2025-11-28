@@ -70,8 +70,6 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ivishal-g/github-stats/master/generated/overview.svg" width="500"/>
 </p>
