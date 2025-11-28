@@ -94,22 +94,6 @@
 
 ---
 
-<br>
-
-<h2 align="center">🌐 Connect</h2>
-
-<p align="center">
-  <a href="https://x.com/Vishal___Kwad">
-    <img src="https://img.shields.io/badge/X_(Twitter)-@Vishal___Kwad-black?style=for-the-badge&logo=x" />
-  </a>
-  &nbsp;
-  <a href="mailto:gaikwad8vishal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gaikwad8vishal%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
 <br><br>
 
 <p align="center"><b>⭐ Let's build something amazing together!</b></p>
