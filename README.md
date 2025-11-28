@@ -2,6 +2,15 @@
 <h2 align="center">
 </h2>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=F9A825&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Contributor;Building+Developer+Tools;GSoC+2026+Aspirant"
+  />
+</p>
+
+---
+
 <p align="center">
   <img src="https://holopin.me/ivishalg" width="750" />
 </p>
@@ -13,14 +22,6 @@
 
 <br>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=F9A825&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Contributor;Building+Developer+Tools;GSoC+2026+Aspirant"
-  />
-</p>
-
----
 
 <br>
 
