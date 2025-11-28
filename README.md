@@ -1,6 +1,5 @@
 <!-- TOP SECTION -->
 <h2 align="center">
-  <b>Software Engineer • Full-Stack Developer</b>
 </h2>
 
 <p align="center">
