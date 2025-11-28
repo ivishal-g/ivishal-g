@@ -19,22 +19,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Hacktoberfest-2024-ff69b4?style=for-the-badge&logo=hackaday&logoColor=white" />
 </p>
-
-<br>
-
-
-<br>
-
-<h2 align="center">✨ Featured Projects ✨</h2>
-
-<p align="center">
-  <i>“Focused on real-world use, clean engineering, and fast iteration.”</i>
-</p>
-
-<br>
-
----
-
 <br>
 
 <h2 align="center">🛠️ Languages & Tools</h2>
