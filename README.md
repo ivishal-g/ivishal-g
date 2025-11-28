@@ -33,13 +33,6 @@
 
 <br>
 
-> 🔥 **[Automation Hub](#)** — A modular workflow automation engine (Node.js + TS + Redis).  
-> 🚀 **[DevKit JS](#)** — Your own lightweight utility library inspired by stdlib-js.  
-> 🔧 **[Prisma Space](#)** — Your experiments + tools around PostgreSQL, Prisma, and Next.js.  
-> 📦 **[Vite SaaS Boilerplate](#)** — Starter setup for SaaS apps (Auth + DB + UI).  
-
-> *(I’ll help you choose your real pinned repos if you send me your repo list.)*
-
 ---
 
 <br>
