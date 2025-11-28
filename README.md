@@ -1,16 +1,37 @@
-# Hello world
+# Hey, I'm Vishal 👋
 
-<!--
-**ivishal-g/ivishal-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack developer | JavaScript & TypeScript | Open-source contributor**
 
-Here are some ideas to get you started:
+I enjoy building tools, automation workflows, and full-stack applications.  
+Currently learning system design, algorithms, and modern JS/TS tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack  
+**Languages:** JavaScript, TypeScript, Go, Python  
+**Frameworks:** Next.js, Node.js, Express, React  
+**Tools:** Docker, GitHub Actions, Redis, Prisma  
+**Databases:** PostgreSQL, MongoDB  
+
+---
+
+## 🔭 What I'm working on
+- Building full-stack apps & automation tools  
+- Contributing to different open-source ecosystems  
+- Improving code quality, testing, and documentation skills  
+
+---
+
+## 🎖️ Holopin Badges  
+[![Holopin Profile](https://holopin.me/ivishalg)](https://holopin.io/@ivishalg)
+
+---
+
+## 📈 GitHub Stats  
+![Stats](https://raw.githubusercontent.com/ivishal-g/github-stats/master/generated/overview.svg)
+
+---
+
+## 🌐 Connect with me  
+- Email: **gaikwad8vishal@gmail.com**  
+- X (Twitter): **@Vishal___Kwad**
